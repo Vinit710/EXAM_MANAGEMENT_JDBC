@@ -27,3 +27,26 @@
 - Eclipse IDE for Java Developers
 - MySQL database
 - MySQL Connector/J (JDBC driver for MySQL)
+
+## Project Structure
+
+- `AddNewQuestion.java`: GUI for adding new questions.
+- `UpdateQuestion.java`: GUI for updating existing questions.
+- `ViewAllQuestion.java`: GUI for viewing all questions.
+- `DeleteQuestion.java`: GUI for deleting questions.
+- `ViewAllResult.java`: GUI for viewing all student results.
+- `adminHome.java`: Main admin interface.
+- `index.java`: Entry point for the application.
+
+## Database Schema
+
+The database schema includes tables for storing questions (`question`) and student results (`result`).
+
+## Contributors
+
+- [Your Name]
+- [Your Email]
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
