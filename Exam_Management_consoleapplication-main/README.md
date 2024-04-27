@@ -20,3 +20,10 @@
 
 1. Run the `adminHome.java` file to open the admin interface.
 2. Use the admin interface to manage questions and view student results.
+
+## Requirements
+
+- Java Development Kit (JDK)
+- Eclipse IDE for Java Developers
+- MySQL database
+- MySQL Connector/J (JDBC driver for MySQL)
